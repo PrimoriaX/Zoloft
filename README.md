@@ -1,2 +1,4 @@
-# Zoloft
-Fortnite Ai Bot Educational Project
+<h1 align="center">Zoloft 💊</h1>
+
+Zoloft is a??
+coming soon
